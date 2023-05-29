@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 322: vbox expects a non-empty block.
+    if renpy.variant("pc") or (renpy.variant("web") and not renpy.variant("mobile")):
+                                                                                     ^
+
+Ren'Py Version: Ren'Py 7.5.1.22070801
+Sun May 28 18:51:00 2023

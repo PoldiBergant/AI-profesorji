@@ -1,6 +1,10 @@
 import openai
-#openai.api_key = open("key.txt", "r").read().strip("\n")
-openai.api_key = "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"
+import json
+
+with open('api_keys.json') as api_keys:
+    key_dict = json.load(api_keys)
+openai.api_key = key_dict["openai"]
+
 
 i=0
 while True:

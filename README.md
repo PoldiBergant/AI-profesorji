@@ -1,3 +1,3 @@
 # AI-profesorji
 
-Well this is embarassing I accidentally left a testing file with the api key in there
+Koda, ki sem jo napisal je v script.rpy, python verzija pa v testing.py
